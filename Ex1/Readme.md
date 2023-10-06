@@ -45,5 +45,3 @@ Bonus Challenges:
 4. Set up continuous integration and continuous deployment (CI/CD) for your project.
 
 5. Implement rate limiting and throttling to protect your API from abuse.
-
-By completing this backend engineering challenge, you'll gain valuable experience in designing and building RESTful APIs, working with databases, securing your application, and creating comprehensive documentation. This project can be adapted to various programming languages and frameworks, making it a versatile learning opportunity.
